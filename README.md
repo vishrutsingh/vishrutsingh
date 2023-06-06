@@ -1,19 +1,10 @@
-<p align="left"> 
-  </br>
-      <img align="left" alt="GIF" src="54813065-E50D-45EC-B957-FEE2AF749405_4_5005_c.jpeg" width="500" height="200" />
-</p>
-
-</br>
-
-# hello world, i'm vishrut (aka bisrut <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">)
+# Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> i'm vishrut (aka bisrut )
 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bisrut.singh)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrut/)[![Twitter Follow](https://img.shields.io/twitter/follow/vishrut?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbisruut&screen_name=bisruut)
 
 
 
-### 👨🏻‍💻 About Me
-
-
+### About Me
 
 - I'm a Blockchain 📈  and AI Enthusiast!
 - I am a Software and Electronics graduate at University of Glasgow.
