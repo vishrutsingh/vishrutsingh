@@ -1,27 +1,13 @@
 # Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> i'm vishrut (aka bisrut )
-
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bisrut.singh)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrut/)[![Twitter Follow](https://img.shields.io/twitter/follow/vishrut?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbisruut&screen_name=bisruut)
-
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bisrut.singh) [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrut/) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbisruut&screen_name=bisruut)
 
 
-### About Me
+
+### 🤓 About Me
 
 - I'm a Blockchain 📈  and AI Enthusiast!
-- I am a Software and Electronics graduate at University of Glasgow.
-- API's are fun, i like to play with twitter,youtube Apis.
-
----
-
-### 📌Pinned Repositories
-
-<p align="left">
-<a href="https://github.com/manojuppala/IBM-Applied-Data-science-specialization">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-<a href="https://github.com/manojuppala/Hadoop-MapReduce">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-</p>
+- Software and Electronics graduate at University of Glasgow.
+- Crypto is fun and allows freedom.
 
 ---
 
