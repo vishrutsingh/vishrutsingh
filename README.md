@@ -1,9 +1,9 @@
 # Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> i'm vishrut (aka bisrut )
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bisrut.singh) [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrut/) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbisruut&screen_name=bisruut)
 
 
 
-### 🤓 About Me
+
+### 🤓 About Me [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bisrut.singh) [![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrut/) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbisruut&screen_name=bisruut)
 
 - I'm a Blockchain 📈  and AI Enthusiast!
 - Software and Electronics graduate at University of Glasgow.
